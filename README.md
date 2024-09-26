@@ -5,8 +5,8 @@ https://www.youtube.com/shorts/_0ybxCiToz4
 
 ## Execute
 python3 -m venv venv
-source bin/activate
-pip install requirements.txt
+source venv/bin/activate
+pip install -r requirements.txt
 python main.py
 
 ### Info
